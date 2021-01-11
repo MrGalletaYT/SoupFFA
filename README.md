@@ -3,6 +3,8 @@
 # Commands:
 * /soupffa create [world]
 * /soupffa setspawn [world]
+* /soupffa enable
+* /soupffa disable
 * /soupffa setspect - spawn of spectator
 * /soupffa set entity
 * /soupffa remove entity
