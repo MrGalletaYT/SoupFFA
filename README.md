@@ -1,6 +1,7 @@
 # SoupFFA
 
 # Commands:
+* /soupffa help
 * /soupffa create [world]
 * /soupffa setspawn [world]
 * /soupffa enable
