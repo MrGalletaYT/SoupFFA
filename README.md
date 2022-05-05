@@ -1,5 +1,6 @@
 # SoupFFA
 
+*/ only working in PocketMine-MP API 3 */
 # Commands:
 * /soupffa help
 * /soupffa create [world]
